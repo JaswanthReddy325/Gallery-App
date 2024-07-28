@@ -1,0 +1,17 @@
+/* Write your code here. */
+img {
+  height: 60vh;
+  width: 60vw;
+}
+.background-container {
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.images {
+  display: flex;
+  padding: 10px;
+}

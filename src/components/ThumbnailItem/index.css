@@ -1,0 +1,15 @@
+/* Write your code here. */
+.image1 {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  opacity: 0.5;
+}
+li {
+  list-style: none;
+}
+.image2 {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
